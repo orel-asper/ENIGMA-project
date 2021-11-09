@@ -1,0 +1,10 @@
+cd to socket-io-client
+cd to socket-io-server
+
+
+npm i on both 
+
+react npm start 
+server node app.js 
+
+enjoy;
